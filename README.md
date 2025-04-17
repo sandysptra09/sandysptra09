@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://github.com/sandysptra09)
 <h1 align="center">Hi 👋, I'm Sandy Saputra</h1>
 <h3 align="center">A passionate frontend developer from Indonesia with a strong focus on crafting intuitive and responsive user interfaces. Dedicated to continuous learning and staying updated with the latest technologies to deliver top-quality web experiences</h3>
-<img align="right" alt="Coding" width="300" src="https://jmp.sh/s/d1BuRqIh9h9qGLFYE5u1">
+<img align="right" alt="Coding" width="300" src="https://media.licdn.com/dms/image/D4D12AQHGG4J6b6OmyQ/article-cover_image-shrink_720_1280/0/1709674937953?e=2147483647&v=beta&t=D46aQMTStnlCf7s6GPq67PFXzmWSTtPoQRtH60tacuo">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandysptra09&label=Profile%20views&color=0e75b6&style=flat" alt="sandysptra09" /> </p>
 
