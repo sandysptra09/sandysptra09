@@ -42,7 +42,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sandysptra09&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="Sandy's languages graph"  />
 </div>
 
-![](https://github-readme-stats.vercel.app/api?username=sandysptra09&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sandysptra09&theme=dark&hide_border=false)
 
 <h3 align="left">🥇 Commit-Man chasing green squares</h3>
