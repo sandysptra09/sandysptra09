@@ -13,9 +13,9 @@
 
 - ⚡ Fun fact **I can spend hours perfecting a single line of CSS, just to get that pixel-perfect design**
 
-### Connect with Me
-![https://linkedin.com/in/sndysptra](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![https://instagram.com/_snchie._](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sndysptra)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_snchie._)
 
 ### My Languages 
 [![My Skills](https://skillicons.dev/icons?i=js,css,ts,python,cpp,dart)](https://skillicons.dev)
@@ -28,4 +28,3 @@
 
 ### Developer Tools
 [![My Skills](https://skillicons.dev/icons?i=npm,figma,postman)](https://skillicons.dev)
-
