@@ -19,23 +19,34 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sndysptra)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_snchie._)
 
-### My Languages
+### 🧠 My Languages
 
 [![My Skills](https://skillicons.dev/icons?i=js,css,ts,python,cpp,dart)](https://skillicons.dev)
 
-### Frameworks & Libraries
+### 🧩 Frameworks & Libraries
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,vue,vite,react,nextjs,flutter,tailwindcss,redux)](https://skillicons.dev)
 
-### Backend & Services
+### ☁️ Backend & Services
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,sequelize,firebase,prisma)](https://skillicons.dev)
 
-### Developer Tools
+### 🛠️ Developer Tools
 
 [![My Skills](https://skillicons.dev/icons?i=npm,figma,postman)](https://skillicons.dev)
 
-<h3 align="left">Commit-Man chasing green squares</h3>
+### 📊 My Github Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sandysptra09&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="Sandy's stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sandysptra09&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="Sandy's languages graph"  />
+</div>
+
+![](https://github-readme-stats.vercel.app/api?username=sandysptra09&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sandysptra09&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sandysptra09&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<h3 align="left">🥇 Commit-Man chasing green squares</h3>
 
 ###
 
