@@ -45,7 +45,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=sandysptra09&theme=dark&hide_border=false)
 <br/>
 
-<h3 align="left">🥇 Commit-Man chasing green squares</h3>
+<h3 align="left">🥇 My Commit Contributions</h3>
 
 ###
 
