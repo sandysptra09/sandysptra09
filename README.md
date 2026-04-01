@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandysptra09&label=Profile%20views&color=0e75b6&style=flat" alt="sandysptra09" /> </p>
 
-- 🌱 I’m currently learning **Next JS and Python**
+- 🌱 I’m currently learning **Next JS**
 
-- 💬 Ask me about **React JS, Next JS, Expres JS or MERN Stack**
+- 💬 Ask me about **React JS, Next JS, Express JS or MERN Stack**
 
 - 📫 How to reach me **sandisaputra2332@gmail.com**
 
